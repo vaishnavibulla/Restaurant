@@ -1,2 +1,1 @@
-# vaishnavibulla.github.io
-[vaishnavibulla.github.io]
+[Link](https://vaishnavibulla.github.io/)
